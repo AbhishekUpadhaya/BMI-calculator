@@ -12,8 +12,8 @@ body{
     align-items: center;
 }
 .main{
-    height:65%;
-    width: 30%;
+    height:70%;
+    width: 27%;
     background-color:#212121da;
     display: flex;
     flex-direction: column;
